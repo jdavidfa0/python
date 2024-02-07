@@ -3,7 +3,7 @@ tardesum=0
 nochesum=0
 
 for cont in range (6):
-    mañana=int(input("Ingrese edades de los Estudiantes de Mañana"))
+    mañana=int(input("Ingrese edades de los Estudiantes de Mañana "))
     mañanasum=mañanasum+mañana
 
 
