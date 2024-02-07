@@ -1,6 +1,7 @@
 cont =0
 acum =0
 alturas =int(input("Ingrese cantidad de alturas"))
+
 while cont<alturas:
     num= int(input("Ingrese altura:  "))
     acum=acum+num
